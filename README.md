@@ -19,6 +19,19 @@ WeChat / community
 
 ---
 
+## 🎬 Cinematic Demo Showcase (1080p 60fps)
+
+Watch the end-to-end multi-scene film production demo demonstrating character consistency, directed camera language, and EBU R128 audio ducking:
+
+- 🎥 **Watch / Download Video (1080p 60fps)**: [`waoo_ai_cinematic_demo.mp4`](waoo_ai_cinematic_demo.mp4)
+- 🖼️ **Consistent Keyframe Sequence**:
+  - **Scene 1 (Establishing Shot)**: [`demo_assets/frame1.jpg`](demo_assets/frame1.jpg)
+  - **Scene 2 (Character Consistency Lock)**: [`demo_assets/frame2.jpg`](demo_assets/frame2.jpg)
+  - **Scene 3 (Neural Matrix Climax)**: [`demo_assets/frame3.jpg`](demo_assets/frame3.jpg)
+- ⚙️ **Automated Assembly Pipeline**: [`render_demo_showcase.py`](render_demo_showcase.py)
+
+---
+
 ## ✨ Features
 
 - Work with the right-hand Assistant to develop a brief and create assets in an ongoing project.
